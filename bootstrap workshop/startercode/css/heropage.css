@@ -1,0 +1,57 @@
+.navbar{
+
+    margin: 5px;
+    height: 50px;
+    border: 2px solid blue;
+    
+}
+
+ .jumbotron {
+        background-image: url(../125763919-wave-abstract-background-for-flyer-brochure-booklet-and-websites-design-vector-illustration-with-col.jpg);
+        background-size: cover;
+        height: 100%;
+    }
+
+
+    .card{
+
+        height: 200px;
+        width: 200px;
+    }
+
+    img{
+        width: 100px;
+        height:100px
+    }
+
+    footer{
+      
+
+       
+
+    }
+ 
+
+    @media all and (max-width:900px){
+
+
+        .navbar{
+
+            margin: 5px;
+            height: 50px;
+            border: 2px solid blue;
+            
+        }
+
+
+       
+
+    
+
+    body {
+        background-image: url("../download1.jfif");
+        background-size: cover;
+        background-repeat:no-repeat;
+       
+       }   
+    } 
